@@ -16,7 +16,7 @@
 <div align="left">
 About Me :man_technologist::
 
-- :man_student:Currently a Grad Student at the Unviversity of Maryland,College Park
+- :man_student:Currently a Grad Student at the University of Maryland,College Park
 - :robot: Exploring the world of Robotics.
 - :computer: Learning ROS and Machine Learning
 </div>
