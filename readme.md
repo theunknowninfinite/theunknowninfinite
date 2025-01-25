@@ -16,10 +16,11 @@
 <div align="left">
 About Me :man_technologist::
 
-- :man_student: Robotics Grad Student at the University of Maryland, College Park.
-- :robot: Exploring Robotics.
-- :computer: Delving into ROS and Drones powered by Machine Learning.
 - :racing_car: Full-time engineer and passionate automotive enthusiast 
+- :robot: Exploring Robotics.
+- :computer: Delving into ROS and AI.
+- :man_student: Masters in Robotics from the University of Maryland, College Park.
+
 </div>
 <div align="left">
 
